@@ -8,7 +8,8 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning: **DSA, System Design**
+- 🎓 Currently pursuing: **MCA (Master of Computer Applications)**
+- 🌱 Currently learning: **Data Structures & Algorithms, System Design**
 - 💬 Ask me about: **JavaScript, React, Node.js, Express, TypeScript, SQL, MongoDB**
 - 📫 Reach me: **jatindev99a@gmail.com**
 - ⚡ Fun fact: *I believe peace exists in coding*
@@ -18,7 +19,7 @@
 ## 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/jatin-singh-7520833a8" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
 </a>
 </p>
 
