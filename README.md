@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Engineer;MCA+Student;DSA+Learner;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Engineer;Problem+Solver;Full+Stack+Developer" />
 </p>
 
 ---
@@ -30,21 +30,4 @@
 ## 🛠️ Languages & Tools
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgresql,redis,docker,aws,git,python,html,css,tailwind,redux" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatin-99a&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-99a&layout=compact&theme=radical" height="170"/>
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jatin-99a&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
