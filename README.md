@@ -10,11 +10,11 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Currently pursuing: **MCA (Master of Computer Applications)**
-- 🌱 Currently learning: **Data Structures & Algorithms, System Design**
 - 💬 Ask me about: **JavaScript, React, Node.js, Express, TypeScript, SQL, MongoDB**
 - 📫 Reach me: **jatindev99a@gmail.com**
 - ⚡ Fun fact: *I believe peace exists in coding*
+- 🌱 Exploring: **Data Structures & Algorithms, System Design**
+- 🎓 Currently pursuing: **MCA (Master of Computer Applications)**
 
 ---
 
