@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-- 💬 Ask me about: **JavaScript, React, Node.js, Express, TypeScript, SQL, MongoDB**
+- 💬 Ask me about: **JavaScript, React, Node.js, Express, TypeScript, SQL, MongoDB, tRpc**
 - 📫 Reach me: **jatindev99a@gmail.com**
 - ⚡ Fun fact: *I believe peace exists in coding*
 - 🌱 Exploring: **Data Structures & Algorithms, System Design**
