@@ -29,5 +29,5 @@
 
 ## 🛠️ Languages & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgresql,redis,docker,aws,git,python,html,css,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgresql,redis,docker,aws,git,python,html,css,tailwind,redux,scss" />
 </p>
